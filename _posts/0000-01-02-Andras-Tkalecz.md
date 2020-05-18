@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Even a broken clock is right twice a day."
 Use the left arrow to go back!
